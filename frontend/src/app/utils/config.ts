@@ -1,0 +1,1 @@
+export const ANALYTICS_API = 'http://localhost:3000/analytics';
