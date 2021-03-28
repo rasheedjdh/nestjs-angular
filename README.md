@@ -7,5 +7,5 @@ Run it with docker. Therefore, you have to install docker. To run the app, navig
 ## High Level Description
 
 
-A simple web developed in NestJS & Angular which displays analytics data & Measurments in table format.
+A simple web app developed in NestJS & Angular which displays analytics data & Measurments in table format.
 
